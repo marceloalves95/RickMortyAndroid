@@ -1,0 +1,1 @@
+/Users/marceloalves/MeusProjetos/RickMortyAndroid/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/marceloalves/MeusProjetos/RickMortyAndroid/buildSrc/build/classes/kotlin/main/Version.class
